@@ -48,3 +48,25 @@ const showResults = () => {
     resultsView.textContent = `Number of Combinations: ${numberOfCombinations}`;
 
 }
+
+/**
+ * verifycards2
+ * Check if cards match
+ ** if match increment the combination count
+ ** if not hide the cards
+ * Reset the stored card values
+ */
+const verifyCards = () => {
+    const firstSignal = optionOne.getAttribute('data-signal');
+    const secondSignal = optionTwo.getAttribute('data-signal');
+    /* If Card Matches */
+    if (firstSignal === secondSignal) { 
+        optionOne.firstChild.classList.add('disqualify_card');
+        optionTwo.firstChild.classList.add('disqualify_card');
+        showResults(); // Increment the combination count
+        // Reset the stored card values
+        optionOne = '';
+        optionTwo = '';
+
+        endOfGame(); }
+    }  
