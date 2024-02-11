@@ -37,6 +37,20 @@ main {
 
 } 
 
+.card {
+    width: 150px;
+    height: 150px;
+    background-color: rgb(178, 34, 34);
+    border-radius: 10px;
+    position: relative;
+    transition: all 0.4s linear;
+    transform-style: preserve-3d;
+    background-position: center center;
+    margin: 5px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
 /* The Headings section */
 .title_game {
     color: rgb(0, 0, 0);
