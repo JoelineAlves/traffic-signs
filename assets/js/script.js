@@ -38,3 +38,13 @@ const endOfGame = () => {
 
    }
 }
+
+/* Display placar of Combinations */
+let numberOfCombinations = 0
+
+const showResults = () => {
+    numberOfCombinations++;
+    const resultsView = document.getElementById('results');
+    resultsView.textContent = `Number of Combinations: ${numberOfCombinations}`;
+
+}
