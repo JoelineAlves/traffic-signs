@@ -1,3 +1,7 @@
+
+const board = document.querySelector('.board');
+const chronometer = document.querySelector('.chronometer');
+
 // My array of cards
 const signals = [
   'bike',
@@ -19,4 +23,14 @@ function createElement(tag, className) {
     const element = document.createElement(tag);
     element.className = className;
     return element;
+};
+
+let optionOne ='';
+let optionTwo ='';
+
+/* Make the matches cards to be disable for selection */
+const endOfGame = () => {
+    const disqualifiedCards = document.querySelectorAll('.disqualify_card');
+   if(disqualifiedCards.length === 16) {
+    
 }
