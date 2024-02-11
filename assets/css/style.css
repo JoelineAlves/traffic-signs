@@ -36,3 +36,32 @@ main {
     justify-content: space-evenly;
 
 } 
+
+/* The Headings section */
+.title_game {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    letter-spacing: 0.1em;
+    max-width: 90%;
+}
+
+/* The Reset section */
+.reset {
+    display: flex;
+    align-items: center;
+    background-color: rgb(178, 34, 34);
+    font-size: 1.2em;
+    height: 0.5px;
+    padding: 15px;
+    border-radius: 5px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    cursor: pointer;
+    font-weight: 400;
+    margin-top: 10px;
+}
+
+.reset:hover {
+    color: rgb(255, 255, 255);
+    background: rgb(178, 34, 34);
+}
