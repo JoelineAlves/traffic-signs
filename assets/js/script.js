@@ -32,5 +32,9 @@ let optionTwo ='';
 const endOfGame = () => {
     const disqualifiedCards = document.querySelectorAll('.disqualify_card');
    if(disqualifiedCards.length === 16) {
-    
+    /* To make the chronometer stop */
+    clearInterval(this.loop);
+    alert(`Congratulations, your time was: ${chronometer.innerHTML} seconds`); 
+
+   }
 }
