@@ -25,3 +25,14 @@ main {
     text-transform: uppercase;
       
 }
+
+/* The Board of cards section */
+.board {
+    max-width: 100%;
+    max-width: 650px;
+    margin-bottom: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+} 
