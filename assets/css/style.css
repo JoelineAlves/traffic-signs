@@ -128,3 +128,12 @@ main {
     max-width: 400px;
     position: relative;
 }
+
+/**
+*to hide the button 
+*because i have some issue with this element, a small button was displaying on the html page, so i have to make it to be invisible
+*/
+.modal-content button { 
+    background-color: white;
+    border: 0;
+}
