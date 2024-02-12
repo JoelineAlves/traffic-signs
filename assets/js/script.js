@@ -97,7 +97,7 @@ const showCard = ({ target }) => {
     if (optionOne == ''){
         target.parentNode.classList.add('show_card');
         optionOne = target.parentNode;
-        
+
     } else if (optionTwo == '') {
       target.parentNode.classList.add('show_card');
       optionTwo = target.parentNode; 
@@ -106,3 +106,13 @@ const showCard = ({ target }) => {
 
 
 }
+
+/** 
+ * createCard
+ * Assembly the tag and class to the card
+ * */  
+const createCard = (signal) => {
+    const card = createElement('div', 'card');
+    const front = createElement('div', 'cover front');
+    const back = createElement('div', 'cover back');
+} 
