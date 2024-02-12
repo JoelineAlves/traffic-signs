@@ -204,6 +204,7 @@ window.onload = () => {
      /**
       * emailjs.send
       * define the service ID and the template ID to send the email by emailjs
+      * set the response status
       */
     emailjs.send('service_igy3jhp', 'template_9gqao0e', {
         from_name: firstName + ' ' + lastName,
