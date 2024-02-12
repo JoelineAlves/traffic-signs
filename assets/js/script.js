@@ -142,3 +142,5 @@ shuffledArray.forEach((signal) => {
     board.appendChild(card);
 });
 };
+
+
