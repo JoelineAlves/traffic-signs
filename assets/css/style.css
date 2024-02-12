@@ -210,3 +210,22 @@ main {
     resize: none;
     margin-bottom: 1px;
 }
+
+.inputBox input[type="submit"] {
+    background: rgb(178, 34, 34);
+    color: rgb(0, 0, 0);
+    border: none;
+    font-size: 1.1em;
+    max-width: 120px;
+    font-weight: 500;
+    cursor: pointer;
+    padding: 14px 15px;
+}
+
+.inputBox input[type="submit"]:hover {
+    color:rgb(255, 255, 255) ;
+}
+
+.inputBox ::placeholder {
+    color: rgb(112, 110, 110);
+}
