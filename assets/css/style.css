@@ -229,3 +229,12 @@ main {
 .inputBox ::placeholder {
     color: rgb(112, 110, 110);
 }
+
+/* The Media Queries for Responsiveness */
+
+@media only screen and (max-device-width: 480px) {
+    .btn_contact {
+    font-size: 1em; 
+    margin: 0.5rem 0.5rem 0 0; 
+}
+}
