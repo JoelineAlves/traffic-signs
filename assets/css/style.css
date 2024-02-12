@@ -71,6 +71,15 @@ main {
     backface-visibility: hidden;
 }
 
+.show_card {
+    transform: rotateY(180deg);
+}
+
+.disqualify_card {
+    filter: saturate(0);
+    opacity: 0.5;
+}
+
 /* The Headings section */
 .title_game {
     color: rgb(0, 0, 0);
