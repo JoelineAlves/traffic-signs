@@ -85,3 +85,24 @@ const verifyCards = () => {
     
      }
     }
+
+    /* Reveal the cards */
+const showCard = ({ target }) => {
+
+    /*check if the card been reveal */
+    if (target.parentNode.className.includes('show_card')){
+        return;
+    }
+
+    if (optionOne == ''){
+        target.parentNode.classList.add('show_card');
+        optionOne = target.parentNode;
+        
+    } else if (optionTwo == '') {
+      target.parentNode.classList.add('show_card');
+      optionTwo = target.parentNode; 
+      verifyCards();
+    }    
+
+
+}
