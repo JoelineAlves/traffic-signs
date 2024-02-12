@@ -125,5 +125,8 @@ const createCard = (signal) => {
      card.appendChild(front);
      card.appendChild(back);
  
+     card.addEventListener('click', showCard);
+     card.setAttribute('data-signal', signal);//with this atribute you can check if the cards are the same
      
+     return card;
  };
