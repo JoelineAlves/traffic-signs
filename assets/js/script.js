@@ -210,7 +210,13 @@ window.onload = () => {
         from_email: email,
         message: message,
         phone_number: phoneNumber
-          })
+          }).then(function(response) {
+            alert("Your message has been sent - we will reply soon!");
+            console.log('SUCCESS!', response.status, response.text);
+            modal.style.display = 'none';
+          }, function(error) {
+            console.log('FAILED...', error);
+          });
         }
     
     
