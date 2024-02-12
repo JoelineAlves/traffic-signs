@@ -166,3 +166,20 @@ main {
     right: 2%;
     font-size: 1.2em;
 }
+
+.btn_contact:hover {
+    color: rgb(255, 255, 255);
+    background:rgb(178, 34, 34);
+}
+
+.formBox {
+    position: relative;
+    width: 100%;
+}
+
+.formBox .row50,
+.formBox .row100 {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
