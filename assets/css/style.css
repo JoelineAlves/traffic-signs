@@ -108,3 +108,13 @@ main {
     color: rgb(255, 255, 255);
     background: rgb(178, 34, 34);
 }
+
+/* The Contact section */
+.modal {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%; 
+}
