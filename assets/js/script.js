@@ -188,6 +188,20 @@ window.onload = () => {
     document.addEventListener('DOMContentLoaded', function() {
       emailjs.init(publickey);
     });
-    
+
+    /**
+     * sendEmail
+     * using the emailjs to send the email directly to the developer
+     * get the values of the form fields
+     */
+    function sendEmail(event) {
+            
+        var firstName = document.getElementById('firstName').value;
+        var lastName = document.getElementById('lastName').value;
+        var email = document.getElementById('email').value;
+        var phoneNumber = document.getElementById('phoneNumber').value;
+        var message = document.getElementById('message').value;
+      
+    }
     
 
