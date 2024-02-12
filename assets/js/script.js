@@ -143,4 +143,13 @@ shuffledArray.forEach((signal) => {
 });
 };
 
+//Make time count
+const timePiece = () => {
+   
+    this.loop = setInterval(() => {
+      const currentTime = +chronometer.innerHTML;
+      chronometer.innerHTML = currentTime + 1; 
+    }, 1000);
+}
+
 
