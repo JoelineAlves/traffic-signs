@@ -174,4 +174,20 @@ window.onload = () => {
     closeModalBtn.addEventListener('click', function () {
         modal.style.display = 'none';
       });
+    
+
+    /* Email section */  
+    form.addEventListener('submit', function (e) {
+        e.preventDefault();
+        sendEmail(e);
+        form.reset();
+        modal.style.display = 'none';
+      });
+    /* Setting the EmailJS */
+    const publickey ="glNtAEk22Hw3Gkal_";  
+    document.addEventListener('DOMContentLoaded', function() {
+      emailjs.init(publickey);
+    });
+    
+    
 
