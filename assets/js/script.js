@@ -34,11 +34,13 @@ let matchedPairs = 0;
 
 /* Make the matches cards to be disable for selection */
 const endOfGame = () => {
-    if (matchedPairs === totalCards / 2) {
-        // To make the chronometer stop
-        clearInterval(this.loop);
-        alert(`Congratulations, your time was: ${chronometer.innerHTML} seconds`);
-    }
+    const disqualifiedCards = document.querySelectorAll('.disqualify_card');
+   if(disqualifiedCards.length === 16) {
+    /* To make the chronometer stop */
+    clearInterval(this.loop);
+    alert(`Congratulations, your time was: ${chronometer.innerHTML} seconds`); 
+
+   }
 }
 
 /* Display placar of Combinations */
