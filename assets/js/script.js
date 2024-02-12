@@ -63,10 +63,25 @@ const verifyCards = () => {
     if (firstSignal === secondSignal) { 
         optionOne.firstChild.classList.add('disqualify_card');
         optionTwo.firstChild.classList.add('disqualify_card');
-        showResults(); // Increment the combination count
-        // Reset the stored card values
+        /* Increment the combination count */
+        showResults(); 
+        /* Reset the stored card values */
         optionOne = '';
         optionTwo = '';
 
-        endOfGame(); }
-    }  
+        endOfGame();  
+    /* If cards do not match, hide the cards after a delay */    
+    }else { 
+        setTimeout(() =>{
+    
+            optionOne.classList.remove('show_card');
+            optionTwo.classList.remove('show_card');
+        /* Reset the stored card values */
+            optionOne = '';
+            optionTwo = '';
+        
+        }, 500);
+        
+    
+     }
+    }
