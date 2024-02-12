@@ -110,9 +110,20 @@ const showCard = ({ target }) => {
 /** 
  * createCard
  * Assembly the tag and class to the card
+ * Set the backgroundImage directly
  * */  
 const createCard = (signal) => {
     const card = createElement('div', 'card');
     const front = createElement('div', 'cover front');
     const back = createElement('div', 'cover back');
-} 
+
+    /* Set the backgroundImage directly */
+    front.style.backgroundImage = `url('assets/images/${signal}.png')`; 
+    console.log(`url('../images/${signal}.png')`);
+
+    /* Assembly of elements */
+     card.appendChild(front);
+     card.appendChild(back);
+ 
+     
+ };
