@@ -69,7 +69,7 @@ const verifyCards = () => {
         optionOne = '';
         optionTwo = '';
 
-        endOfGame();  
+        //endOfGame();  
     /* If cards do not match, hide the cards after a delay */    
     }else { 
         setTimeout(() =>{
@@ -102,7 +102,9 @@ const showCard = ({ target }) => {
       target.parentNode.classList.add('show_card');
       optionTwo = target.parentNode; 
       verifyCards();
-    }    
+      endOfGame();
+    } 
+     
 
 
 }
