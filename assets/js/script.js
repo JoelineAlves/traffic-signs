@@ -186,7 +186,7 @@ window.onload = () => {
     /* Setting the EmailJS */
     const publickey ="glNtAEk22Hw3Gkal_";  
     document.addEventListener('DOMContentLoaded', function() {
-      emailjs.init(publickey);
+      emailjs.init(publickey); // initialize emailjs with the publickey
     });
 
     /**
@@ -201,7 +201,17 @@ window.onload = () => {
         var email = document.getElementById('email').value;
         var phoneNumber = document.getElementById('phoneNumber').value;
         var message = document.getElementById('message').value;
-      
-    }
+     /**
+      * emailjs.send
+      * define the service ID and the template ID to send the email by emailjs
+      */
+    emailjs.send('service_igy3jhp', 'template_9gqao0e', {
+        from_name: firstName + ' ' + lastName,
+        from_email: email,
+        message: message,
+        phone_number: phoneNumber
+          })
+        }
+    
     
 
