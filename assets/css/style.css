@@ -137,3 +137,17 @@ main {
     background-color: white;
     border: 0;
 }
+
+.close {
+    color: #aaa;
+    font-size: 28px;
+    font-weight: bold;
+    cursor: pointer;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+.close:hover {
+    color:rgb(0, 0, 0);
+}
