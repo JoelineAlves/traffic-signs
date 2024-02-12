@@ -14,7 +14,7 @@
     <main>
 
         <!-- The Contact section-->
-        <button>Contact Us</button>
+        <button id="openModalBtn" class="btn_contact">Contact Us</button>
 
         <!--The Headings section-->
 
@@ -33,6 +33,50 @@
         <!--The Reset section-->
         <button class="reset" onclick="window.location.reload();" >Reset Game</button>
     </main>
+    <!-- The Modal Form section-->
+    <div id="myModal" class="modal">
+        <div class="modal-content">
+          <button type="button"><span class="close" id="closeModalBtn">&times;</span></button>
+          <form id="myForm">
+            <!-- The form fields -->
+            <div class="formBox">
+              <div class="row50">
+                <div class="inputBox">
+                  <span>First Name</span>
+                  <input type="text" id="firstName" placeholder="First name" required />
+                </div>
+                <div class="inputBox">
+                  <span>Last Name</span>
+                  <input type="text" id="lastName" placeholder="Last name" required />
+                </div>
+              </div>
+              <div class="row50">
+                <div class="inputBox">
+                  <span>Email</span>
+                  <input type="email" id="email" placeholder="Email" required />
+                </div>
+                <div class="inputBox">
+                  <span>Mobile</span>
+                  <input type="text" id="phoneNumber" placeholder="Phone number" required />
+                </div>
+              </div>
+              <div class="row100">
+                <div class="inputBox">
+                  <span>Message</span>
+                  <textarea
+                   id="message" placeholder="Write your message here..."
+                  ></textarea>
+                </div>
+              </div>
+              <div class="row100">
+                <div class="inputBox">
+                  <input type="submit" value="Send" />
+                </div>
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
     
 </body>
 </html>
