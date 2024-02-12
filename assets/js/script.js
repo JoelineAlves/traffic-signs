@@ -163,11 +163,15 @@ window.onload = () => {
     const form = document.getElementById('myForm');
   
     /**
-     * openModalBtn
-     * 
+     * openModalBtn, a click event to display the modal form 
      */
     openModalBtn.addEventListener('click', function () {
       modal.style.display = 'block';
     });
-
+    /**
+     * closeModalBtn, a click event to hide the modal form
+    */
+    closeModalBtn.addEventListener('click', function () {
+        modal.style.display = 'none';
+      });
 
