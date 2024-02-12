@@ -156,4 +156,18 @@ window.onload = () => {
     loadGame();
 }
 
+/* Handle the Modal Form */
+    const openModalBtn = document.getElementById('openModalBtn');
+    const closeModalBtn = document.getElementById('closeModalBtn');
+    const modal = document.getElementById('myModal');
+    const form = document.getElementById('myForm');
+  
+    /**
+     * openModalBtn
+     * 
+     */
+    openModalBtn.addEventListener('click', function () {
+      modal.style.display = 'block';
+    });
+
 
