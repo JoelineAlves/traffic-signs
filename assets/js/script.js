@@ -130,3 +130,15 @@ const createCard = (signal) => {
      
      return card;
  };
+
+ /* Load the game */
+const loadGame = () => {
+    /* spread the elements of the signals array */   
+        const duplicateSignals = [ ...signals, ...signals ];
+/* Shuffle the cards */
+const  shuffledArray = duplicateSignals.sort(() => Math.random() - 0.5);   
+shuffledArray.forEach((signal) => {
+    const card = createCard(signal);
+    board.appendChild(card);
+});
+};
