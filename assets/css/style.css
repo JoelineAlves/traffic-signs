@@ -1,7 +1,6 @@
-/* General styles */
-
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
 
+/* General styles */
 body {
     font-family: 'Poppins', sans-serif;
     overflow-x: hidden; /* Prevent horizontal scrolling */
@@ -248,4 +247,51 @@ main {
     font-size: 1em; 
     margin: 0.5rem 0.5rem 0 0; 
 }
+}
+
+@media screen and (max-width: 768px) {
+
+    body {
+        overflow-x: hidden;
+    }
+
+    .score_timer {
+        font-size: 1em;
+    }
+
+    .board{
+        font-size: 0.5em;
+    }
+
+    .reset {
+        margin-top: 20px;
+    }
+
+    .card {
+        width: 100px;/*ver isso bem amanha*/
+        height: 100px;
+    }
+
+    .modal-content {
+        width: 90%;
+        max-width: 300px;
+    }
+
+    .close {
+        top: 5px;
+        right: 5px;
+        font-size: 24px;
+    }
+
+    .btn_contact {
+        font-size: 1em;
+    }
+
+    .inputBox input[type="submit"] {
+        max-width: 100%;
+    }
+
+    .title_game h1 {
+      display: none;
+    }
 }
