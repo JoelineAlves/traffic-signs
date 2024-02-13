@@ -15,3 +15,6 @@ You will start by turning over a card
 - If the next card you turn over is not the same as the first, the cards will be turned back
 - The game continues until you match all the cards on the board.
 - You will get an alert with the timer and the total number of combinations made once you have found them all.
+
+
+Visit the deployed website [here](https://joelinealves.github.io/traffic-signs/).
