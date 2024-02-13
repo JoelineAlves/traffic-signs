@@ -19,7 +19,7 @@ const signals = [
  * @param {*} tag 
  * @param {*} className  
  */
-function createElement(tag, className) {
+    const createElement = (tag, className) => {
     const element = document.createElement(tag);
     element.className = className;
     return element;
@@ -28,13 +28,11 @@ function createElement(tag, className) {
 let optionOne ='';
 let optionTwo ='';
 
-//teste
-const totalCards = 16;
-let matchedPairs = 0;
 
 /* Make the matches cards to be disable for selection */
 const endOfGame = () => {
     const disqualifiedCards = document.querySelectorAll('.disqualify_card');
+
    if(disqualifiedCards.length === 16) {
     /* To make the chronometer stop */
     clearInterval(this.loop);
@@ -106,7 +104,7 @@ const showCard = ({ target }) => {
       target.parentNode.classList.add('show_card');
       optionTwo = target.parentNode; 
       verifyCards();
-      endOfGame();
+     
     } 
      
 
