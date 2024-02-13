@@ -55,3 +55,36 @@ Visit the deployed website [here](https://joelinealves.github.io/traffic-signs/)
   - [Acknowledgements](#acknowledgements)
 
 ***
+
+## User Experience (UX)
+
+### Project Goals
+
+The main objective of this project is to provide our target audience with an integrated, simplified and appealing user experience.
+Our goal is to provide an easy-to-use application that meets all user needs.
+
+- Increase user interest in understanding and knowing how to differentiate different traffic signs
+
+- Provide the user with useful in-game tools to make the game more accessible.
+
+- Give users the opportunity to learn and familiarize themselves with traffic signs.
+
+-Give users the opportunity to contact the game developer if they have any questions.
+
+### User Stories
+
+- As a user, i want to have fun playing the game.
+
+- As a user, i want the game to be instructive and graphically appealing..
+
+- As a user, I want to develop memory and concentration skills.
+
+- As a user, I want you to count the score of the combinations found.
+
+- As a user, I want to be able to restart the game.
+
+- As a user, I want to be able to get in touch with the developers of future games.
+
+- As a user, I want to be able to browse the website on all devices (mobile, tablet, desktop).
+
+- As a user, I want the card orders to be randomly generated when i restart the game.
