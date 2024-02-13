@@ -88,3 +88,10 @@ Our goal is to provide an easy-to-use application that meets all user needs.
 - As a user, I want to be able to browse the website on all devices (mobile, tablet, desktop).
 
 - As a user, I want the card orders to be randomly generated when i restart the game.
+
+### Color Scheme
+
+![Color scheme image](assets/readme_images/scheme_color.png)
+
+The site's colors are FireBrick in rgb format rgb(178, 34, 34) for the background of the scoring time, number of combinations, on the buttons and also as the background of the cards, also used in modal form, white also in rgb format rgb(255, 255, 255) with the purpose of focusing on the buttons, used in the modal form and also part of the card's background design.
+Lastly, the titles above the card grid, buttons, card border, scoring time, and number of combinations are all black, similarly formatted as rgb(0, 0, 0). These colors were selected for excellent readability and user perception, as well as attracting more attention from website visitors.
