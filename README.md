@@ -18,3 +18,40 @@ You will start by turning over a card
 
 
 Visit the deployed website [here](https://joelinealves.github.io/traffic-signs/).
+
+## Table of Contents
+
+- [Trafic Signs](#trafic-signs)
+  - [Table of Contents](#table-of-contents)
+  - [User Experience (UX)](#user-experience-ux)
+    - [Project Goals](#project-goals)
+    - [User Stories](#user-stories)
+    - [Color Scheme](#color-scheme)
+    - [Typography](#typography)
+    - [Wireframes](#wireframes)
+  - [Features](#features)
+    - [Additional features to be implemented](#additional-features-to-be-implemented)
+    - [General](#general)
+    - [Home Page](#home-page)
+  - [Technologies Used](#technologies-used)
+    - [Languages Used](#languages-used)
+    - [Frameworks, Libraries and Programs Used](#frameworks-libraries-and-programs-used)
+  - [Testing](#testing)
+    - [Testing User Stories](#testing-user-stories)
+    - [Example message received using template fields in Email JS](#example-message-received-using-template-fields-in-email-js)
+    - [Code Validation](#code-validation)
+    - [Accessibility](#accessibility)
+    - [Tools Testing](#tools-testing)
+    - [Automated Testing (TDD)](#manual-testing-(tdd))
+    - [Manual Testing (BDD)](#manual-testing-(bdd))
+  - [Finished Product](#finished-product)
+  - [Deployment](#deployment)
+    - [GitHub Pages](#github-pages)
+    - [Forking the GitHub Repository](#forking-the-github-repository)
+  - [Credits](#credits)
+    - [Content](#content)
+    - [Media](#media)
+    - [Code](#code)
+  - [Acknowledgements](#acknowledgements)
+
+***
