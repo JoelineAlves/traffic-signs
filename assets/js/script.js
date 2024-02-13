@@ -73,8 +73,8 @@ const verifyCards = () => {
 
         endOfGame();  
     /* If cards do not match, hide the cards after a delay */    
-    }else { 
-        setTimeout(() =>{
+    } else { 
+        setTimeout(() => {
     
             optionOne.classList.remove('show_card');
             optionTwo.classList.remove('show_card');
