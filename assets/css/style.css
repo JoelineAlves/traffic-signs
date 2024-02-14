@@ -33,6 +33,7 @@ main {
     padding: 1px;
     border-radius: 5px;
     text-transform: uppercase;
+    margin-bottom: 1px;
       
 }
 
@@ -111,7 +112,8 @@ main {
     text-transform: uppercase;
     cursor: pointer;
     font-weight: 400;
-    margin-top: 10px;
+    /*margin-top: 10px;*/
+    margin-bottom: 5px;
 }
 
 .reset:hover {
