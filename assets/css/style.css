@@ -48,8 +48,8 @@ main {
 } 
 
 .card {
-    width: 150px;
-    height: 150px;
+    width: 100px;
+    height: 100px;
     background-color: rgb(178, 34, 34);
     border-radius: 10px;
     position: relative;
