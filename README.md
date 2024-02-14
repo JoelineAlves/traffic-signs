@@ -31,8 +31,6 @@ Visit the deployed website [here](https://joelinealves.github.io/traffic-signs/)
     - [Wireframes](#wireframes)
   - [Features](#features)
     - [Additional features to be implemented](#additional-features-to-be-implemented)
-    - [General](#general)
-    - [Home Page](#home-page)
   - [Technologies Used](#technologies-used)
     - [Languages Used](#languages-used)
     - [Frameworks, Libraries and Programs Used](#frameworks-libraries-and-programs-used)
@@ -135,8 +133,13 @@ Desktop Wireframe ![View](assets/readme_images/desktop_wireframe.jpeg)
 - Add a 404 page for users who link to a non-existent page or resource.
 - Add an incorrect combination counter.
 
-### General
+## Technologies Used
 
-- Responsive design on all device sizes.
+### Languages Used
 
-- Similar color scheme and design across all page to structure, categorize, and present information attractively and effectively to customers.
+- [HTML5](https://en.wikipedia.org/wiki/HTML5)
+- [CSS3](https://en.wikipedia.org/wiki/CSS)
+- [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+
+
+
