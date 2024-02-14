@@ -185,7 +185,7 @@ Desktop Wireframe ![View](assets/readme_images/desktop_wireframe.jpeg)
   - effortlessly comprehend the rules of the game:
    Direct instructions for the game are located above the picture grid.
 
-![View](/docs/manual-testing/user-stories-start.png)
+![View]()
 
   - notice the progress:
 Every time there is a match, the user is rewarded with a point on the scoreboard, and you are shown a timer that shows the current game time.
