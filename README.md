@@ -99,3 +99,17 @@ Lastly, the titles above the card grid, buttons, card border, scoring time, and 
 ### Typography
 
 The main font used on the site is Poppins, with Sans Serif as a fallback font if Poppins is not importing correctly. I decided to use just one font.
+
+### Wireframes
+
+[Figma](https://www.figma.com/) has been used to showcase the appearance of the site and display the placement of the different elements whitin the pages.
+
+I am familiar with Figma so I had no problems building my wireframes.
+
+Mobile ![View](assets/readme_images/mobile_wireframe.jpeg)
+
+Small-Screen ![View](assets/readme_images/smallscreen_wireframe.jpeg)
+
+Desktop Wireframe ![View](assets/readme_images/desktop_wireframe.jpeg)
+
+[Back to top ⇧](#travel-island)
