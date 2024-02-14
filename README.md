@@ -203,5 +203,9 @@ This functionality uses the EmailJS JavaScript library. A JavaScript tool called
 
 ![View](assets/readme_images/form_modal.png)
 
+### Example message received using template fields in Email JS
+
+![Email from Email JS](assets/readme_images/emailjs.png)
+
 
 
