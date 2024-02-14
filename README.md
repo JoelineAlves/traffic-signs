@@ -134,3 +134,9 @@ Desktop Wireframe ![View](assets/readme_images/desktop_wireframe.jpeg)
 
 - Add a 404 page for users who link to a non-existent page or resource.
 - Add an incorrect combination counter.
+
+### General
+
+- Responsive design on all device sizes.
+
+- Similar color scheme and design across all page to structure, categorize, and present information attractively and effectively to customers.
