@@ -141,5 +141,37 @@ Desktop Wireframe ![View](assets/readme_images/desktop_wireframe.jpeg)
 - [CSS3](https://en.wikipedia.org/wiki/CSS)
 - [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 
+### Frameworks, Libraries and Programs Used
+
+- [Google Fonts](https://fonts.google.com/)
+  - Google Fonts was used to import the Poppins font into the style.css file. This font was used throughout the site.
+
+ [jQuery](https://jquery.com/)
+    - jQuery was used for modal functionality. 
+
+ [EmailJS](https://www.emailjs.com/)
+    - Enables email sending straight from JavaScript without the need for backend development.
+
+[Photoshop](https://www.adobe.com/ie/products/photoshop.html)
+    - Photoshop was used to create the images cards, resizing and editing photos.
+
+[Illustrator:](https://www.adobe.com/ie/products/illustrator.html)
+    - Photoshop was used to create the images cards, resizing and editing photos.       
+
+- [Codeanywhere](https://codeanywhere.com/)
+  - Codeanywhere was used for writing code, committing, and then pushing to GitHub.
+
+  - [Visual Studio](https://visualstudio.microsoft.com/) Visual studio was helpful when I had to switch to VScode to finish my code because codeanywhere wasn't working.
+
+  - [GitHub Desktop](https://desktop.github.com/) GitHub Desktop was used to run git commands, such as commit and push changes without using the command line.
+
+- [GitHub](https://github.com/)
+  - GitHub was used to store the project after pushing.
+
+- [Figma](https://www.figma.com/)
+  - Figma was used to create the wireframes during the design phase of the project.
+
+[Back to top ⇧](#travel-island)
+
 
 
