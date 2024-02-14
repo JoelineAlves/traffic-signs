@@ -207,5 +207,17 @@ This functionality uses the EmailJS JavaScript library. A JavaScript tool called
 
 ![Email from Email JS](assets/readme_images/emailjs.png)
 
+### Code Validation
+
+- HTML validation
+![W3C Markup Validator](assets/readme_images/html_validator.png)
+
+- CSS Validation
+![W3C CSS Validator](assets/readme_images/css_validator.png)
+
+- JS Validation
+![JS Hint](assets/readme_images/js_validator.png)
+
+
 
 
