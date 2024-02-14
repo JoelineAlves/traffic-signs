@@ -185,12 +185,12 @@ Desktop Wireframe ![View](assets/readme_images/desktop_wireframe.jpeg)
   - effortlessly comprehend the rules of the game:
    Direct instructions for the game are located above the picture grid.
 
-![View]()
+![View](assets/readme_images/rules_game.png)
 
   - notice the progress:
 Every time there is a match, the user is rewarded with a point on the scoreboard, and you are shown a timer that shows the current game time.
 
-![View](/docs/manual-testing/user-stories-end.png)
+![View](assets/readme_images/score_timer.png)
 
 - anytime you like, you can restart the game:
 Using the Reset Game button, the player can restart the game at any time while it is in progress.
@@ -201,7 +201,7 @@ The images in the game are randomly arranged, so the user cannot guess where the
 - as a game user you will have the option to send an email to the game developer:
 This functionality uses the EmailJS JavaScript library. A JavaScript tool called EmailJS makes it possible to send emails entirely client-side. You can create and send an email template without using server code by connecting to your preferred email provider, such as Gmail. Users are prompted to fill in any required blanks on input forms. The user receives a pop-up notification after submitting the form stating that the developer will contact them shortly and that the email has been received.
 
-![View](/docs/manual-testing/user-stories-with-modal.png)
+![View](assets/readme_images/form_modal.png)
 
 
 
