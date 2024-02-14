@@ -113,3 +113,24 @@ Small-Screen ![View](assets/readme_images/smallscreen_wireframe.jpeg)
 Desktop Wireframe ![View](assets/readme_images/desktop_wireframe.jpeg)
 
 [Back to top ⇧](#travel-island)
+
+### Features
+
+- A board with 16 cards that can be turned over by clicking on up to two cards at the same time, If the cards do not match, they will be turned over again.
+
+- The cards become disabled and cannot be selected again if two of the selected cards match.
+
+- A score timer is included in the game to keep track of the amount of time spent playing and the total number of combinations made.
+
+- The option to restart the game.
+
+- The ability to send comments for improvements and future advancements to the game creator through message.
+
+- Work in various browsers on desktop and mobile screens.
+
+- A shuffled card display at reset.
+
+### Additional features to be implemented
+
+- Add a 404 page for users who link to a non-existent page or resource.
+- Add an incorrect combination counter.
