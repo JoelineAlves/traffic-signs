@@ -218,6 +218,26 @@ This functionality uses the EmailJS JavaScript library. A JavaScript tool called
 - JS Validation
 ![JS Hint](assets/readme_images/js_validator.png)
 
+### Accessibility
+
+- Used Lighthouse in Chrome DevTools to confirm that the colors and fonts being used in throughout the website are easy to read and accessible.
+
+- Lighthouse reports
+![Lighthouse report for Traffic Signs](assets/readme_files/lighthouse_index.png)
+
+### Tools Testing
+
+- [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
+
+  - Chrome DevTools was used during the development process to test, to explore and modify HTML elements, CSS styles and Java Script used in the project. Also Chrome DevTools was used to test responsiveness in different screen sizes during the development process.
+
+- Responsiveness
+
+  - [Am I Responsive?](http://ami.responsivedesign.is/#) was used to check responsiveness of the site pages across different devices.
+
+  - [Responsive Design Checker](https://www.responsivedesignchecker.com/) was used to check responsiveness of the site pages on different screen sizes.
+
+
 
 
 
