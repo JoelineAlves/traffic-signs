@@ -245,6 +245,59 @@ This functionality uses the EmailJS JavaScript library. A JavaScript tool called
 
 - I made the decision to save the automated tests for later use in my project rather than implementing them now.
 
+### Manual Testing (BDD)
+
+- Browser Compatibility
+
+  - The website has been tested on the following browsers:
+
+    - **Goolgle Chrome**
+
+        No appearance, responsiveness nor functionality issues.
+
+    - **Safari**
+
+        No appearance, responsiveness nor functionality issues.
+
+    - **Microsoft Edge**
+
+        No appearance, responsiveness nor functionality issues.
+
+    - **Mozilla Firefox**
+
+        No appearance, responsiveness nor functionality issues.
+
+- Device compatibility
+
+  - The website has been tested on multiple devices, including:
+
+    - **iPhone SE"**
+
+        No appearance, responsiveness nor functionality issues.
+
+    - **iPhone XR**
+
+        No appearance, responsiveness nor functionality issues.
+
+    - **iPad**
+
+        No appearance, responsiveness nor functionality issues.
+
+    - **iPhone 11**
+
+        No appearance, responsiveness nor functionality issues.
+
+    - **iPhone 14 Pro**
+
+        No appearance, responsiveness nor functionality issues.
+
+    - **ASUS VivoBook**
+
+        No appearance, responsiveness nor functionality issues.
+
+    - **MacBook Pro 15"**
+
+        No appearance, responsiveness nor functionality issues.
 
 
 
