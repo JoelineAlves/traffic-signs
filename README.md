@@ -237,6 +237,13 @@ This functionality uses the EmailJS JavaScript library. A JavaScript tool called
 
   - [Responsive Design Checker](https://www.responsivedesignchecker.com/) was used to check responsiveness of the site pages on different screen sizes.
 
+### Automated Testing (TDD)
+
+- Code is a useful tool for testing code. This is superior to the manual testing method in several aspects. A project can quickly run hundreds of tests, and because programmers often write tests as they are developed, flaws are found early on. The ideal testing approach combines automated and user testing, since automated testing does not also test the user experience.
+
+- Jest testing is the process of developing tests that we know will fail and then writing just enough code to pass them while keeping the tests compatible with each other. This cycle is known as Red-Green-Refactor.
+
+- I made the decision to save the automated tests for later use in my project rather than implementing them now.
 
 
 
