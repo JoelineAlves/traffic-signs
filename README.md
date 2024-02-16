@@ -110,7 +110,7 @@ Small-Screen ![View](assets/readme_images/smallscreen_wireframe.jpeg)
 
 Desktop Wireframe ![View](assets/readme_images/desktop_wireframe.jpeg)
 
-[Back to top ⇧](#travel-island)
+[Back to top ⇧](#trafic-signs)
 
 ### Features
 
@@ -171,7 +171,7 @@ Desktop Wireframe ![View](assets/readme_images/desktop_wireframe.jpeg)
 - [Figma](https://www.figma.com/)
   - Figma was used to create the wireframes during the design phase of the project.
 
-[Back to top ⇧](#travel-island)
+[Back to top ⇧](#trafic-signs)
 
 ## Testing
 
@@ -314,11 +314,11 @@ This functionality uses the EmailJS JavaScript library. A JavaScript tool called
       - Clicking on the Reset Game button, the game will restart again.
   
 
-[Back to top ⇧](#travel-island) 
+[Back to top ⇧](#trafic-signs) 
 
 ## Finished Product
 
-[Back to top ⇧](#travel-island)
+[Back to top ⇧](#trafic-signs)
 
 ## Deployment
 
@@ -352,7 +352,7 @@ By forking the GitHub Repository we make a copy of the original repository on ou
 2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
 3. You should now have a copy of the original repository in your GitHub account.
 
-[Back to top ⇧](#travel-island)
+[Back to top ⇧](#trafic-signs)
 
 
 
