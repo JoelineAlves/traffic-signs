@@ -223,7 +223,7 @@ This functionality uses the EmailJS JavaScript library. A JavaScript tool called
 - Used Lighthouse in Chrome DevTools to confirm that the colors and fonts being used in throughout the website are easy to read and accessible.
 
 - Lighthouse reports
-![Lighthouse report for Traffic Signs](assets/readme_files/lighthouse_index.png)
+![Lighthouse report for Traffic Signs](assets/readme_images/lighthouse_report.png)
 
 ### Tools Testing
 
