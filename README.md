@@ -307,37 +307,52 @@ This functionality uses the EmailJS JavaScript library. A JavaScript tool called
 
     - **Board Cards**
 
-      - Clicking the cards on the board will  flip the cards Hovering on the different navigation bar's links will trigger hover effect, highlighting the link for the user.
+      - Clicking on the cards on the board will flip the cards, and by flipping the cards you will have to find all the combinations. 
 
-      - Clicking on the navigation bar's links will bring the users to the specified page.
+    - **Reset Game**
 
-      - I changed the css background of the navbar toggler, to make it visible on small devices, unfortunately the bootstrap navbar toggler that I used in the project has an issue that I was unable to resolve.
-
-    - **Footer**
-
-      - Clicking on the social media links will open the specific website on a new tab.
+      - Clicking on the Reset Game button, the game will restart again.
   
-      - Clicking on the links of the pages will bring the users to the specified page.
 
-  - About Page
+[Back to top ⇧](#travel-island) 
 
-    - Clicking on the About page will bring the user to the About page.
+## Finished Product
 
-  - Gallery  Page
+[Back to top ⇧](#travel-island)
 
-    - Clicking on the Gallery page will bring the user to the Gallery page.
-  
-  - Contact Page
-  
-    - Clicking on the Contact page will bring the user to the Contact page.
+## Deployment
 
-    - When filling out  the Get in touch form, the user have to press the send message to submit the form.
+- This website was developed using [Codeanywhere](https://codeanywhere.com/) where I wrote all of the code for the traffic signs, committed it, and uploaded it to [GitHub](https://github.com/).
 
-    - Clicking and dragging on the map in the info  section will move the area shown on the map.
+- [Visual Studio](https://visualstudio.microsoft.com/) Visual studio was helpful when I had to switch to VScode to finish my code because codeanywhere wasn't working.
 
-    - Clicking the plus and minus buttons changes the zoom of the map.
+- [GitHub Desktop](https://desktop.github.com/) GitHub Desktop was used to run git commands, such as commit and push changes without using the command line.
 
-[Back to top ⇧](#travel-island)     
+### GitHub Pages
+
+- Here are the steps to deploy this website to GitHub Pages from its GitHub repository:
+
+    1. Log in to GitHub and locate the [GitHub Repository](https://github.com/).
+
+    2. At the top of the Repository, locate the Settings button on the menu.
+
+        - Alternatively click [here](https://raw.githubusercontent.com/) for a GIF demostration of the process.
+
+    3. Scroll down the Settings page until you locate the Pages section.
+
+    4. Under Source, click the dropdown called None and select Master Branch.
+
+    5. The page will refresh automatically and generate a link to your website.
+
+### Forking the GitHub Repository
+
+By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
+2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
+3. You should now have a copy of the original repository in your GitHub account.
+
+[Back to top ⇧](#travel-island)
 
 
 
