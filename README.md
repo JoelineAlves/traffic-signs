@@ -388,7 +388,25 @@ By forking the GitHub Repository we make a copy of the original repository on ou
 
 - [Ferenc Almasi](https://webtips.dev/memory-game-in-javascript?utm_content=cmp-true) Memory Game process research.
 
-[Back to top ⇧](#trafic-signs)
+[Back to top ⇧](#traffic-signs)
+
+## Acknowledgements
+
+- My Brother, for him unconditional love, help and support in all aspects of life to make possible for me to work on this project.
+
+- My family, for their valuable opinions and and critic during the design and development process.
+
+- My mentor, Marcel, for their invaluable feedback and guidance.
+
+- My Tutor, Rachel, for the all help and support.
+
+- My friend Dorivaldo, for the all help and support
+
+- Codeanywhere support, to help resolve issues encountered.
+
+- Code Institute and its amazing Slack community for their support and providing me with the necessary knowledge to complete this project.
+
+[Back to top ⇧](#traffic-signs)
 
 
 
