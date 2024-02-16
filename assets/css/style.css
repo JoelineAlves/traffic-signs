@@ -34,6 +34,7 @@ main {
     border-radius: 5px;
     text-transform: uppercase;
     margin-bottom: 1px;
+
       
 }
 
@@ -49,8 +50,6 @@ main {
 } 
 
 .card {
-    width: 130px;
-    height: 90px;
     background-color: rgb(178, 34, 34);
     border-radius: 10px;
     position: relative;

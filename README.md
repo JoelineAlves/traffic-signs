@@ -299,6 +299,46 @@ This functionality uses the EmailJS JavaScript library. A JavaScript tool called
 
         No appearance, responsiveness nor functionality issues.
 
+   - Common Elements Testing
+
+    - **CONTACT US**
+
+      - Clicking on the Contact us button will open a modal form with the necessary fields to contact the developer.
+
+    - **Board Cards**
+
+      - Clicking the cards on the board will  flip the cards Hovering on the different navigation bar's links will trigger hover effect, highlighting the link for the user.
+
+      - Clicking on the navigation bar's links will bring the users to the specified page.
+
+      - I changed the css background of the navbar toggler, to make it visible on small devices, unfortunately the bootstrap navbar toggler that I used in the project has an issue that I was unable to resolve.
+
+    - **Footer**
+
+      - Clicking on the social media links will open the specific website on a new tab.
+  
+      - Clicking on the links of the pages will bring the users to the specified page.
+
+  - About Page
+
+    - Clicking on the About page will bring the user to the About page.
+
+  - Gallery  Page
+
+    - Clicking on the Gallery page will bring the user to the Gallery page.
+  
+  - Contact Page
+  
+    - Clicking on the Contact page will bring the user to the Contact page.
+
+    - When filling out  the Get in touch form, the user have to press the send message to submit the form.
+
+    - Clicking and dragging on the map in the info  section will move the area shown on the map.
+
+    - Clicking the plus and minus buttons changes the zoom of the map.
+
+[Back to top ⇧](#travel-island)     
+
 
 
 
