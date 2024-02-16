@@ -318,6 +318,8 @@ This functionality uses the EmailJS JavaScript library. A JavaScript tool called
 
 ## Finished Product
 
+Finished Product ![View](assets/readme_images/finish_product.png)
+
 [Back to top ⇧](#traffic-signs)
 
 ## Deployment
@@ -353,6 +355,40 @@ By forking the GitHub Repository we make a copy of the original repository on ou
 3. You should now have a copy of the original repository in your GitHub account.
 
 [Back to top ⇧](#traffic-signs)
+
+## Credits
+
+### Content
+
+- All content was written by the developer.
+
+### Media
+  
+- [Google](https://www.google.com/)
+
+   - Card image: "bike" edited on Photoshop and Illustrator.
+   - Card image: "carro" edited on Photoshop and Illustrator.
+   - Card image: "direction" edited on Photoshop and Illustrator.
+   - Card image: "double" edited on Photoshop and Illustrator.
+   - Card image: "parque" edited on Photoshop and Illustrator.
+   - Card image: "ramp" edited on Photoshop and Illustrator.
+   - Card image: "school" edited on Photoshop and Illustrator.
+   - Card image: "stop" edited on Photoshop and Illustrator.
+   - Background Card image: "lights" edited on Photoshop and Illustrator.
+
+- After being downloaded from Google, the pictures were altered in Illustrator and Photoshop, [Photoshop:](https://www.adobe.com/ie/products/photoshop.html), and [Illustrator:](https://www.adobe.com/ie/products/illustrator.html) 
+
+### Code
+
+- [Stack Overflow](https://stackoverflow.com/), and [W3Schools](https://www.w3schools.com/) were consulted on a regular basis for inspiration and sometimes to be able to better understand the code being implement.
+
+- [EmailJS](https://www.emailjs.com/) was used to register and create an account in order to get emails via the contact us form.
+
+- [GPT Chat](https://chat.openai.com/) GPT Chat for the process of linking the modal contact form to Email JS.
+
+- [Ferenc Almasi](https://webtips.dev/memory-game-in-javascript?utm_content=cmp-true) Memory Game process research.
+
+[Back to top ⇧](#trafic-signs)
 
 
 
