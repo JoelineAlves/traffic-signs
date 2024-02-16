@@ -49,6 +49,19 @@ main {
 
 } 
 
+/*.card {
+    width: 130px;
+    height: 90px;
+    background-color: rgb(178, 34, 34);
+    border-radius: 10px;
+    position: relative;
+    transition: all 0.4s linear;
+    transform-style: preserve-3d;
+    background-position: center center;
+    margin: 5px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}*/
 .card {
     width: 130px;
     height: 90px;
