@@ -39,17 +39,17 @@ const endOfGame = () => {
     alert(`Congratulations, your time was: ${chronometer.innerHTML} seconds`); 
 
    }
-}
+};
 
 /* Display placar of Combinations */
-let numberOfCombinations = 0
+let numberOfCombinations = 0;
 
 const showResults = () => {
     numberOfCombinations++;
     const resultsView = document.getElementById('results');
     resultsView.textContent = `Number of Combinations: ${numberOfCombinations}`;
 
-}
+};
 
 /**
  * verifycards2
@@ -86,7 +86,7 @@ const verifyCards = () => {
         
     
      }
-    }
+    };
 
     /* Reveal the cards */
 const showCard = ({ target }) => {
@@ -109,7 +109,7 @@ const showCard = ({ target }) => {
      
 
 
-}
+};
 
 /** 
  * createCard
@@ -153,12 +153,12 @@ const timePiece = () => {
       const currentTime = +chronometer.innerHTML;
       chronometer.innerHTML = currentTime + 1; 
     }, 1000);
-}
+};
 window.onload = () => {
     
     timePiece();
     loadGame();
-}
+};
 
 /* Handle the Modal Form */
     const openModalBtn = document.getElementById('openModalBtn');
