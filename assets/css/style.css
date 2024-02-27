@@ -168,6 +168,7 @@ main {
 
 .btn_contact {
     display: inline-block;
+    color: rgb(255, 255, 255);
     background-color: rgb(178, 34, 34);
     font-weight: 400;
     text-transform: uppercase;
@@ -182,7 +183,7 @@ main {
 }
 
 .btn_contact:hover {
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     background:rgb(178, 34, 34);
 }
 
