@@ -105,6 +105,7 @@ main {
 .reset {
     display: flex;
     align-items: center;
+    color: rgb(255, 255, 255);
     background-color: rgb(178, 34, 34);
     font-size: 1.2em;
     height: 0.5px;
@@ -119,7 +120,7 @@ main {
 }
 
 .reset:hover {
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     background: rgb(178, 34, 34);
 }
 
