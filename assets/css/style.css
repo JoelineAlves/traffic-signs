@@ -230,7 +230,7 @@ main {
 
 .inputBox input[type="submit"] {
     background: rgb(178, 34, 34);
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     border: none;
     font-size: 1.1em;
     max-width: 120px;
